@@ -4,7 +4,7 @@ function DealBox() {
     return (
         <div className="deal-box">
             <div className="image-sec">
-                <img src="./public/img/computer.png" alt="" />
+                <img src="./img/computer.png" alt="" />
             </div>
 
             <div className="offer">
